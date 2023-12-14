@@ -2,4 +2,4 @@
 
 Welcome to the Github Repository for the Expert³ modpack for Minecraft!
 
-Currently, the modpack is for 1.19.2 and has two branches: main and experimental.
+Currently, the modpack is for 1.20.1 and has one branch.
